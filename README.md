@@ -1,4 +1,4 @@
-<h1> API em Express </h1>
+<h1> Cadastro de "artigos" </h1>
 
 <p>API básica em express para cadastro de "artigos".</p>
 <span>Ferramentes usadas: </span>
