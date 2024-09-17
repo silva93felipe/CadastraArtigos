@@ -18,7 +18,7 @@ npm install
 ```
 - No arquivo .env colocar a string de conexão com o mongo na variável de ambiente ACCESS_DB
 
-## ✔️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - ``Express``
 - ``MongoDB``
